@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.fafdeec7.js",
+    "static/media/fondo.mp4": "/static/media/fondo.d4a3704e3b06a3d7ba82.mp4",
+    "index.html": "/index.html",
+    "main.fafdeec7.js.map": "/static/js/main.fafdeec7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fafdeec7.js"
+  ]
+}
